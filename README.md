@@ -1,58 +1,37 @@
-<h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
+<h1 align="center">Hi 👋, I'm Pritam Panda</h1>
 
 <p>
-  I'm a passionate MERN stack developer from Bangladesh 🇧🇩. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. 
+  I'm a passionate MERN stack developer from India. My love for coding is fueled by a diverse range of tech interests, including web and mobile app development.
 </p>
 <p>
   🚀 Specializing in web development, I'm committed to becoming a modern full-stack developer.
 </p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/> </p>
 <p align="left"> <a target="_blank" href="https://twitter.com/fazle_rabbi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fazle-rabbi-dev?logo=twitter&style=for-the-badge" alt="Fazle Rabbi" /></a> </p>
 
 <ul>
   <li>🔭 Im currently <b>building Full stack projects</b></li>
-  <li>📝 I write articles on <a target="_blank" href="https://medium.com/@fazle-rabbi-dev">Medium</a> & <a target="_blank" href="https://dev.to/fazle-rabbi-dev">Dev.to</a></li>
+  <li>📝 I write articles on <a target="_blank" href="https://medium.com/@pritamleicapanda)">Medium</a>
   <li>💬 Ping me about React.js, Next.js, Node.js, Express.js</li>
-  <li>👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/fazle-rabbi-dev?tab=repositories">Repositories</a></li>
+  <li>👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/skysro?tab=repositories">Repositories</a></li>
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
 </ul>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a target="_blank" href="https://linkedin.com/in/fazlerabbidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://twitter.com/fazle_rabbi_dev" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://medium.com/@fazle-rabbi-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://dev.to/fazle-rabbi-dev" target="blank"><img align="center" src="https://seeklogo.com/images/D/dev-to-logo-BDC0EFA32F-seeklogo.com.png" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://facebook.com/fazlerabbidev" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-black-logo-133935095E-seeklogo.com.png" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://instagram.com/fazle_rabbi_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fazle Rabbi" height="30" width="auto" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/pritampanda420/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pritam Panda" height="30" width="auto" /></a>
+<a target="_blank" href="https://x.com/Skysro420" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="Fazle Rabbi" height="30" width="auto" /></a>
+<a target="_blank" href="https://dev.to/fazle-rabbi-dev" target="blank"><img align="center" src="https://seeklogo.com/images/D/dev-to-logo-BDC0EFA32F-seeklogo.com.png" alt="Pritam Panda" height="30" width="auto" /></a>
+<a target="_blank" href="https://www.facebook.com/pritam.panda.96199344/" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-black-logo-133935095E-seeklogo.com.png" alt="Pritam Panda" height="30" width="auto" /></a>
+<a target="_blank" href="https://www.instagram.com/peepee._.420/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Pritam Panda" height="30" width="auto" /></a>
 
 <b>✍️ Recent Blogs</b>
 
 <ul>
   <li>
-    <a target="_blank" href="https://dev.to/fazle-rabbi-dev/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
-      How to execute (bash/shell) command using Node.js
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://dev.to/fazle-rabbi-dev/what-is-a-render-prop-in-react-how-does-it-work-1c5p">
-      What is a Render Prop in React? How Does it Work?
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://tech-canvas.vercel.app/blog/launch-your-website-for-free-top-7-incredible-web-hosting-platforms">
-      Launch Your Website for FREE: Top 7 Incredible Web Hosting Platforms!
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://tech-canvas.vercel.app/blog/how-to-install-nodejs-on-android-with-termux">
-      How To Install Node.js on Android with Termux?
-    </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://tech-canvas.vercel.app/blog/amazing-nodejs-modules">
-      Life Changing Node.js Modules! Explore now
+    <a target="_blank" href="https://medium.com/@pritamleicapanda/the-evolution-of-web-development-in-india-a-contemporary-perspective-5fb861a3bd33">
+      The Evolution of Web Development in India: A Contemporary Perspective
     </a>
   </li>
   </ul>
