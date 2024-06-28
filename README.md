@@ -57,11 +57,7 @@
 <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="34" height="32" alt="React-Query" /></a>
 <a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/a1ea5733-76e0-4697-a5b0-e1cf0833301f" width="36" height="36" alt="Firebase" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="33" height="33" alt="Nextauth" /></a>
 
 </p>
 
-<h3>Github Stats</h3>
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
-<img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fazle-rabbi-dev&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=dracula&hide_border=true" /></a>
