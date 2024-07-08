@@ -22,7 +22,7 @@
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/pritampanda420/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pritam Panda" height="30" width="auto" /></a>
 <a target="_blank" href="https://x.com/Skysro420" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="Fazle Rabbi" height="30" width="auto" /></a>
-<a target="_blank" href="https://dev.to/fazle-rabbi-dev" target="blank"><img align="center" src="https://seeklogo.com/images/D/dev-to-logo-BDC0EFA32F-seeklogo.com.png" alt="Pritam Panda" height="30" width="auto" /></a>
+<a target="_blank" href="https://dev.to/skysro" target="blank"><img align="center" src="https://seeklogo.com/images/D/dev-to-logo-BDC0EFA32F-seeklogo.com.png" alt="Pritam Panda" height="30" width="auto" /></a>
 <a target="_blank" href="https://www.facebook.com/pritam.panda.96199344/" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-black-logo-133935095E-seeklogo.com.png" alt="Pritam Panda" height="30" width="auto" /></a>
 <a target="_blank" href="https://www.instagram.com/peepee._.420/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Pritam Panda" height="30" width="auto" /></a>
 
