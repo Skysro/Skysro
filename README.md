@@ -9,7 +9,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
 </p>
 <p>
- <img https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
+ <img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
 </p>
 
 <ul>
