@@ -14,6 +14,7 @@
   <li>💬 Ping me about React.js, Next.js, Node.js, Express.js</li>
   <li>👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/skysro?tab=repositories">Repositories</a></li>
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
+  <p><img align="right" src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 /></p>
 </ul>
 
 <h3 align="left">Connect with me</h3>
@@ -33,7 +34,7 @@
     </a>
   </li>
   </ul>
-<img align="right" src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
+
 <h3>Languages and Tools</h3>
 <p align="left">
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
