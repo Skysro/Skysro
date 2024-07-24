@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4)](https://open.spotify.com/user/31sjkjjic3gu2q6ab7elgxbjkjp4)
 </p>
 
 
