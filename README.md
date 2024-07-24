@@ -10,7 +10,7 @@
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
-<p align="left"> <img src=![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4&count={1}) alt="Pritam Panda"/> </p>
+<p align="left"> <img src=https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4&count={1} alt="Pritam Panda"/> </p>
 </p>
 
 
