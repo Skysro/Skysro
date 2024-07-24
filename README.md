@@ -5,7 +5,7 @@
 <p>
   🚀 Specializing in web development, I'm committed to becoming a modern full-stack developer.
 </p>
-
+ <p><img align="right" src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 /></p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
 </p>
 <ul>
@@ -14,7 +14,7 @@
   <li>💬 Ping me about React.js, Next.js, Node.js, Express.js</li>
   <li>👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/skysro?tab=repositories">Repositories</a></li>
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
-  <p><img align="right" src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 /></p>
+ 
 </ul>
 
 <h3 align="left">Connect with me</h3>
