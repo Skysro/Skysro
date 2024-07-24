@@ -14,7 +14,7 @@
   <li>💬 Ping me about React.js, Next.js, Node.js, Express.js</li>
   <li>👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/skysro?tab=repositories">Repositories</a></li>
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
-  <p><img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4&{1} /></p>
+  <p><img align="right" src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4&count={3} /></p>
 </ul>
 
 <h3 align="left">Connect with me</h3>
