@@ -33,7 +33,7 @@
     </a>
   </li>
   </ul>
-
+<img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
 <h3>Languages and Tools</h3>
 <p align="left">
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -54,6 +54,5 @@
 <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="34" height="32" alt="React-Query" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="33" height="33" alt="Nextauth" /></a>
-<img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
 </p>
 
