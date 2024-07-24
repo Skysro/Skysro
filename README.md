@@ -8,10 +8,6 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
 </p>
-<p>
- <img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
-</p>
-
 <ul>
   <li>🔭 Im currently <b>building Full stack projects</b></li>
   <li>📝 I write articles on <a target="_blank" href="https://medium.com/@pritamleicapanda)">Medium</a>
@@ -58,5 +54,6 @@
 <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="34" height="32" alt="React-Query" /></a>
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="33" height="33" alt="Nextauth" /></a>
+<img src= https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4 />
 </p>
 
