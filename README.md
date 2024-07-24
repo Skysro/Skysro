@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pritam Panda</h1>
-
-
-
 <p>
   I'm a passionate MERN stack developer from India. My love for coding is fueled by a diverse range of tech interests, including web and mobile app development.
 </p>
@@ -10,9 +7,10 @@
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=skysro alt="Pritam Panda"/>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4)](https://open.spotify.com/user/31sjkjjic3gu2q6ab7elgxbjkjp4)
 </p>
-
+<p>
+  ![Recently](https://spotify-recently-played-readme.vercel.app/api?user=31sjkjjic3gu2q6ab7elgxbjkjp4)
+</p>
 
 <ul>
   <li>🔭 Im currently <b>building Full stack projects</b></li>
